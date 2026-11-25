@@ -1,0 +1,376 @@
+# Netlify / Cloudflare Pages redirects: old cursillousa.org URLs -> new pages (301)
+/espanol/inicio/ /espanol/ 301
+/tieng-viet/trang-nha/ /tieng-viet/ 301
+/what-is-cursillo/ /about/ 301
+/espanol/que-es-el-cursillo/ /espanol/about/ 301
+/tieng-viet/cursillo-la-gi/ /tieng-viet/about/ 301
+/what-is-cursillo/cursillo-de-cursillos-opportunities-benefits/ /about/cursillo-de-cursillos/ 301
+/espanol/que-es-el-cursillo/cursillo-de-cursillos-oportunidades-y-ventajas/ /espanol/about/cursillo-de-cursillos/ 301
+/eduardo-bonnin-aguilo/ /bonnin/ 301
+/eduardo-bonnin-aguilo/eduardo-bonnins-address-at-the-iii-world-ultreya-rome/ /bonnin/address-iii-world-ultreya-rome/ 301
+/eduardo-bonnin-aguilo/encounter-with-oneself/ /bonnin/encounter-with-oneself/ 301
+/eduardo-bonnin-aguilo/essential-important-accidental-elements/ /bonnin/essential-important-accidental-elements/ 301
+/eduardo-bonnin-aguilo/evangelization-through-conversion/ /bonnin/evangelization-through-conversion/ 301
+/eduardo-bonnin-aguilo/foundational-charism-of-the-cursillo-movement/ /bonnin/foundational-charism/ 301
+/eduardo-bonnin-aguilo/signs-of-hope/ /bonnin/signs-of-hope/ 301
+/eduardo-bonnin-aguilo/what-is-fundamental-for-being-christian/ /bonnin/what-is-fundamental/ 301
+/espanol/biografia-de-eduardo-bonnin-aguilo/ /espanol/bonnin/ 301
+/espanol/biografia-de-eduardo-bonnin-aguilo/discurso-de-eduardo-bonnin-en-la-iii-ultreya-mundial-en-roma/ /espanol/bonnin/discurso-iii-ultreya-mundial-roma/ 301
+/espanol/biografia-de-eduardo-bonnin-aguilo/el-carisma-fundacional-del-movimiento-de-cursillos/ /espanol/bonnin/carisma-fundacional/ 301
+/espanol/biografia-de-eduardo-bonnin-aguilo/signos-de-esperanza/ /espanol/bonnin/signos-de-esperanza/ 301
+/happy-birthday-eduardo-bonnin/ /bonnin/ 301
+/palanca-requests/ /prayer/ 301
+/espanol/palanca-perpetua/ /espanol/prayer/ 301
+/tieng-viet/xin-goi-palancas/ /tieng-viet/prayer/ 301
+/palanca-test/ /prayer/ 301
+/affiliated-cursillo-centers/ /centers/ 301
+/links-contacts/ /centers/ 301
+/espanol/links-y-contactos/ /espanol/centers/ 301
+/tieng-viet/noi-ket-lien-lac/ /tieng-viet/centers/ 301
+/national-directory-update-form/ /centers/ 301
+/actualizacion-del-directorio-nacional/ /espanol/centers/ 301
+/upcoming-events/ /events/ 301
+/espanol/calendario-cursillo/ /espanol/events/ 301
+/tieng-viet/cursillo-lich/ /tieng-viet/events/ 301
+/national-encounter-2026/ /events/national-encounter-2026/ 301
+/national-encounter-2026-sp/ /espanol/events/national-encounter-2026/ 301
+/national-encounter-2026-vi-2/ /tieng-viet/events/national-encounter-2026/ 301
+/encounter2024-2/ /events/#archive 301
+/encounter2022/ /events/#archive 301
+/encounter2019/ /events/#archive 301
+/espanol/encuentros/ /espanol/events/#archive 301
+/espanol/encuentro-nacional-de-cursillo-2019/ /espanol/events/#archive 301
+/espanol/encuentro-nacional-de-cursillo-2018/ /espanol/events/#archive 301
+/espanol/encuentros-2017/ /espanol/events/#archive 301
+/tieng-viet/dai-hoi-cursillo-toan-quoc-2019/ /tieng-viet/events/#archive 301
+/tieng-viet/dai-hoi-cursillo-toan-quoc-2018/ /tieng-viet/events/#archive 301
+/tieng-viet/don-ghi-danh-dai-hoi-cursillo-toan-quoc-2017/ /tieng-viet/events/#archive 301
+/tieng-viet/mau-dang-ky-encounter/ /tieng-viet/events/#archive 301
+/2017-seattle-national-secretariat-meeting/ /events/#archive 301
+/tieng-viet/ban-tin-trung-uong/ /tieng-viet/events/#newsletters 301
+/resource-center/ /library/ 301
+/espanol/centro-de-recursos/ /espanol/library/ 301
+/tieng-viet/trung-tam-hoc-lieu/ /tieng-viet/library/ 301
+/workshops/ /library/workshops/ 301
+/forms-reports/ /library/forms-reports/ 301
+/espanol/formularios-e-informes/ /espanol/library/forms-reports/ 301
+/tieng-viet/mau-don-va-tuong-trinh/ /tieng-viet/library/forms-reports/ 301
+/bylaws/ /library/forms-reports/ 301
+/diocesan-report/ /library/forms-reports/ 301
+/regional-coordinators-annual-report-form/ /library/forms-reports/ 301
+/reporte-annual-del-coordinador-regional/ /espanol/library/forms-reports/ 301
+/ban-phuc-trinh-cua-dhv-mien/ /tieng-viet/library/forms-reports/ 301
+/resource-center/2012-national-cursillo-encounter-workshop-sessions/ /library/2012/ 301
+/resource-center/2012-north-american-and-caribbean-group-encounter/ /library/2012-north-america-caribbean/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/ /library/2013/ 301
+/resource-center/2014-national-cursillo-encounter-workshop-sessions/ /library/2014/ 301
+/resource-center/2014-region-xi-encounter/ /library/2014-region-xi/ 301
+/resource-center/2015-national-cursillo-encounter-workshop-sessions/ /library/2015/ 301
+/resource-center/2016-national-cursillo-encounter/ /library/2016/ 301
+/resource-center/2017-national-cursillo-encounter-workshop-sessions/ /library/2017/ 301
+/resource-center/2018-national-cursillo-encounter-sessions/ /library/2018/ 301
+/resource-center/2019-national-cursillo-encounter-sessions/ /library/2019/ 301
+/resource-center/2020-national-cursillo-encounter-sessions-2/ /library/2020/ 301
+/resource-center/cursillo-on-ewtn/ /library/ewtn/ 301
+/resource-center/pope-speaks-attendees-iii-european-ultreya-rome/ /library/pope-iii-european-ultreya/ 301
+/resource-center/spiritual-advisor-workshop/ /library/spiritual-advisor-workshop/ 301
+/espanol/centro-de-recursos/2012-encuentro-internacional-del-grupo-norte-america-y-caribe/ /espanol/library/2012-north-america-caribbean/ 301
+/espanol/centro-de-recursos/cursillo-en-ewtn/ /espanol/library/ewtn/ 301
+/espanol/centro-de-recursos/eduardo-bonnin-aguilo-1917-2008-del-fundador/ /espanol/library/bonnin-del-fundador/ 301
+/espanol/centro-de-recursos/el-papa-habla-a-los-asistentes-a-la-iii-ultreya-europea-en-roma/ /espanol/library/pope-iii-european-ultreya/ 301
+/espanol/centro-de-recursos/region-xi-encuentro-de-cursillo-2014/ /espanol/library/2014-region-xi/ 301
+/espanol/centro-de-recursos/sesiones-de-talleres-del-2012-encuentro-nacional-de-cursillo/ /espanol/library/2012/ 301
+/espanol/centro-de-recursos/sesiones-de-talleres-del-2013-encuentro-nacional-de-cursillo/ /espanol/library/2013/ 301
+/espanol/centro-de-recursos/sesiones-de-talleres-del-2014-encuentro-nacional-de-cursillo/ /espanol/library/2014/ 301
+/espanol/centro-de-recursos/sesiones-de-talleres-del-2015-encuentro-nacional-de-cursillo/ /espanol/library/2015/ 301
+/espanol/centro-de-recursos/sesiones-de-talleres-del-2016-encuentro-nacional-de-cursillo/ /espanol/library/2016/ 301
+/espanol/centro-de-recursos/sesiones-de-talleres-del-2017-encuentro-nacional-de-cursillo/ /espanol/library/2017/ 301
+/espanol/centro-de-recursos/sesiones-de-talleres-del-2018-encuentro-nacional-de-cursillo/ /espanol/library/2018/ 301
+/espanol/centro-de-recursos/sesiones-de-talleres-del-2019-encuentro-nacional-de-cursillo/ /espanol/library/2019/ 301
+/tieng-viet/trung-tam-hoc-lieu/2012-cac-de-tai-ho%CC%A3i-tha%CC%89o-trong-da%CC%A3i-ho%CC%A3i-cursillo-toan-quoc/ /tieng-viet/library/2012/ 301
+/tieng-viet/trung-tam-hoc-lieu/2013-cac-de-tai-ho%CC%A3i-tha%CC%89o-trong-da%CC%A3i-ho%CC%A3i-cursillo-toan-quoc/ /tieng-viet/library/2013/ 301
+/tieng-viet/trung-tam-hoc-lieu/2014-cac-de-tai-ho%CC%A3i-tha%CC%89o-trong-da%CC%A3i-ho%CC%A3i-cursillo-toan-quoc/ /tieng-viet/library/2014/ 301
+/tieng-viet/trung-tam-hoc-lieu/2015-cac-de-tai-ho%CC%A3i-tha%CC%89o-trong-da%CC%A3i-ho%CC%A3i-cursillo-toan-quoc/ /tieng-viet/library/2015/ 301
+/tieng-viet/trung-tam-hoc-lieu/2016-cac-de-tai-ho%CC%A3i-tha%CC%89o-trong-da%CC%A3i-ho%CC%A3i-cursillo-toan-quoc/ /tieng-viet/library/2016/ 301
+/tieng-viet/trung-tam-hoc-lieu/2017-cac-de-tai-ho%CC%A3i-tha%CC%89o-trong-da%CC%A3i-ho%CC%A3i-cursillo-toan-quoc/ /tieng-viet/library/2017/ 301
+/tieng-viet/trung-tam-hoc-lieu/2018-cac-de-tai-hoi-thao-trong-dai-hoi-cursillo-toan-quoc/ /tieng-viet/library/2018/ 301
+/tieng-viet/trung-tam-hoc-lieu/dgh-noi-chuye%CC%A3n-trong-buoi-ultreya-iii-cu%CC%89a-pt-cursillo-au-chau-ta%CC%A3i-roma/ /tieng-viet/library/pope-iii-european-ultreya/ 301
+/tieng-viet/trung-tam-hoc-lieu/lap-vien-eduardo-bonnin-aguilo-1917-2009/ /tieng-viet/library/bonnin-sang-lap-vien/ 301
+/tieng-viet/trung-tam-hoc-lieu/pt-cursillo-tren-dai-ewtn/ /tieng-viet/library/ewtn/ 301
+/donation-frequently-asked-questions/ /give/#faq 301
+/cursillo-literature/ /bookstore/ 301
+/cursillo-literature-spanish/ /espanol/bookstore/ 301
+/cursillo-literature-vietnamese/ /tieng-viet/bookstore/ 301
+/espanol/literatura-cursillo/ /espanol/bookstore/ 301
+/tieng-viet/tai-lieu-cursillo/ /tieng-viet/bookstore/ 301
+/shop/ /bookstore/ 301
+/product-category/vietnamese/testing/ /tieng-viet/bookstore/ 301
+/online-registration/ /events/ 301
+/encounter-registration-form-2019/ /events/ 301
+/encounter-registration-form-2022/ /events/ 301
+/encounter2017/arrival-departure-info/ /events/ 301
+/encounter2017/arrival-departure-info-scranton-2018/ /events/ 301
+/encounter2018/arrival-departure-info/ /events/ 301
+/encounter2019/arrival-departure-info/ /events/ 301
+/encounter2022/arrival-departure-info-chapman-2022/ /events/ 301
+/espanol/encuentros/formulario-de-registro-de-encuentro/ /espanol/events/ 301
+/espanol/encuentros/formulario-de-registro-de-encuentro-2019/ /espanol/events/ 301
+/espanol/encuentros/informacion-de-llegadapartida/ /espanol/events/ 301
+/tieng-viet/mau-dang-ky-encounter/arrival-departure-info/ /tieng-viet/events/ 301
+/tieng-viet/mau-dang-ky-encounter/mau-encounter/ /tieng-viet/events/ 301
+/26th/ /events/ 301
+/forma-de-evaluacion/ /espanol/events/ 301
+/luong-gia/ /tieng-viet/events/ 301
+/search-this-site/ / 301
+/sitemap/ / 301
+/author/admin/ / 301
+/category/encounter/ /events/ 301
+/category/homepage-banner/ / 301
+/category/uncategorized/ / 301
+/26th-national-encounter-fiesta/ /events/ 301
+/26th-national-encounter-space-limited-register-online-now/ /events/ 301
+/26th-ne-keynote-kerygma-and-cursillo/ /events/ 301
+/27th-national-encounter-july-27-30-2017-register-now/ /events/ 301
+/60th-cursillo-anniversary-usa-july-27-30-2017/ /events/ 301
+/celebrate-60th-cursillo-anniversary-1st-cursillo-bell/ /events/ 301
+/de/ / 301
+/evangelization-through-friendship/ / 301
+/friendship/ / 301
+/intimate/ / 301
+/kerygma/ /events/ 301
+/kerygmatic-26th-national-encounter/ /events/ 301
+/lets-celebrate-and-rejoice-in-christ-2/ / 301
+/lets-celebrate-and-rejoice-in-christ/ / 301
+/multi-cultural-fiesta/ /events/ 301
+/national-encounter-fiesta-2/ /events/ 301
+/national-encounter-fiesta/ /events/ 301
+/no-one-left-behind-experiencing-gods-love/ / 301
+/second-slide-test/ / 301
+/slide-title/ / 301
+/title-goes-here/ / 301
+/triple-encounters-self-christ-an-others-2/ /events/ 301
+/were-one-in-christ/ / 301
+/product-category/english/ /bookstore/ 301
+/product-category/english/cursillo-booklets/ /bookstore/#cat-cursillo-booklets 301
+/product-category/english/gifts/ /bookstore/#cat-gifts 301
+/product-category/english/recommended-reading/ /bookstore/#cat-recommended-reading 301
+/product-category/english/team-formation/ /bookstore/#cat-team-formation 301
+/product-category/english/weekend-materials/ /bookstore/#cat-weekend-materials 301
+/product-category/spanish/ /espanol/bookstore/ 301
+/product-category/spanish/formacion-del-equipo/ /espanol/bookstore/#cat-formacion-del-equipo 301
+/product-category/spanish/lectura-recomendada/ /espanol/bookstore/#cat-lectura-recomendada 301
+/product-category/spanish/material-para-cursillo/ /espanol/bookstore/#cat-material-para-cursillo 301
+/product-category/spanish/panfletos/ /espanol/bookstore/#cat-panfletos 301
+/product-category/vietnamese/ /tieng-viet/bookstore/ 301
+/forms-reports/memo-091515-en/ /library/forms-reports/ 301
+/cursillo-literature/orderform/ /bookstore/ 301
+/home-page/co1-1/ / 301
+/cursillo-literature/books/ /bookstore/ 301
+/tieng-viet/xin-goi-palancas/rosarys/ /tieng-viet/prayer/ 301
+/home-page/co1-2/ / 301
+/resource-center/2014-national-cursillo-encounter-workshop-sessions/agustin/ /library/2014/ 301
+/resource-center/2014-region-xi-encounter/cef2a/ /library/2014-region-xi/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/smith/ /library/2013/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/santos/ /library/2013/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/sa_workshop/ /library/2013/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/rosazza/ /library/2013/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/michael/ /library/2013/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/marisela/ /library/2013/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/juan1/ /library/2013/ 301
+/resource-center/2013-national-cursillo-encounter-workshop-sessions/hoang/ /library/2013/ 301
+/resource-center/2012-north-american-and-caribbean-group-encounter/juan2012/ /library/2012-north-america-caribbean/ 301
+/resource-center/2012-national-cursillo-encounter-workshop-sessions/ruiz/ /library/2012/ 301
+/resource-center/2012-national-cursillo-encounter-workshop-sessions/perez/ /library/2012/ 301
+/resource-center/2012-national-cursillo-encounter-workshop-sessions/fela/ /library/2012/ 301
+/resource-center/2012-national-cursillo-encounter-workshop-sessions/cuddeback/ /library/2012/ 301
+/resource-center/2012-national-cursillo-encounter-workshop-sessions/angel/ /library/2012/ 301
+/resource-center/2012-national-cursillo-encounter-workshop-sessions/aguillon/ /library/2012/ 301
+/home-page/co1/ / 301
+/home-page/co2/ / 301
+/home-page/co3/ / 301
+/home-page/eduardo/ / 301
+/home-page/encounter-pic/ / 301
+/home-page/cdc-pic/ / 301
+/resource-center/martin/ /library/ 301
+/resource-center/benavides/ /library/ 301
+/resource-center/gomez/ /library/ 301
+/resource-center/myers/ /library/ 301
+/resource-center/sevilla/ /library/ 301
+/resource-center/terrana/ /library/ 301
+/resource-center/tran2015/ /library/ 301
+/resource-center/waraksa/ /library/ 301
+/resource-center/ewtn1/ /library/ 301
+/resource-center/ewtn2/ /library/ 301
+/resource-center/popefrancis/ /library/ 301
+/home-page/trinity-3/ / 301
+/resource-center/2017-national-cursillo-encounter-workshop-sessions/vincent/ /library/2017/ 301
+/tieng-viet/trang-nha/viet-flyer/ /tieng-viet/ 301
+/tieng-viet/trang-nha/viet-flyer-1/ /tieng-viet/ 301
+/tieng-viet/trang-nha/viet-flyer-2/ /tieng-viet/ 301
+/espanol/inicio/span-flyer/ /espanol/ 301
+/home-page/eng-flyer/ / 301
+/bylaws/bylaws-united-states-national-cursillo-movement-2024-nov-2024/ /library/forms-reports/ 301
+/bylaws/ban-_ieu-le-hoat-do-ng-2024-articles-of-operation/ /library/forms-reports/ 301
+/no-one-left-behind-experiencing-gods-love/ncca-job-posting-and-application-2-10-25/ / 301
+/no-one-left-behind-experiencing-gods-love/ncca-job-posting-2/ / 301
+/home-page/nsa-announcement-071625-3/ / 301
+/home-page/fr-lalo-bio/ / 301
+/home-page/nsa-announcement-071625-tabloid/ / 301
+/bylaws/united-states-national-cursillo-movement-operational-bylaws-11-16-2024-final-edit-2/ /library/forms-reports/ 301
+/home-page/nw/ / 301
+/home-page/n2/ / 301
+/espanol/inicio/s1/ /espanol/ 301
+/tieng-viet/trang-nha/v1/ /tieng-viet/ 301
+/home-page/ccn/ / 301
+/home-page/ccnn/ / 301
+/home-page/mmm/ / 301
+/home-page/attachment/1/ / 301
+/home-page/attachment/2/ / 301
+/home-page/encounter-3/ / 301
+/home-page/final-cnn_0426_enf-1-2/ / 301
+/home-page/cnn_0626_esf-2-2/ / 301
+/home-page/cnn_0626_enf-2-2/ / 301
+/home-page/cnn_0626_enf-2-3/ / 301
+/media_category/26th-ne/ /library/ 301
+/media_category/banner/ /library/ 301
+/media_category/bookstore/ /library/ 301
+/media_category/cdc/ /library/ 301
+/media_category/donation/ /library/ 301
+/media_category/eduardo-bio/ /library/ 301
+/media_category/encounters/ /library/ 301
+/media_category/engish-encounters/ /library/ 301
+/media_category/english-resource-center/ /library/ 301
+/media_category/engish-fr/ /library/ 301
+/media_category/engish-newsletter/ /library/ 301
+/media_category/espanol-encounters/ /library/ 301
+/media_category/espanol-fr/ /library/ 301
+/media_category/espanol-newsletter/ /library/ 301
+/media_category/forms-and-reports/ /library/ 301
+/media_category/gifts/ /library/ 301
+/media_category/memo/ /library/ 301
+/media_category/newsletter/ /library/ 301
+/media_category/resource-center/ /library/ 301
+/media_category/spanish-resource-center/ /library/ 301
+/media_category/viet-encounters/ /library/ 301
+/media_category/viet-fr/ /library/ 301
+/media_category/viet-newsletter/ /library/ 301
+/media_category/vietnamese-resource-center/ /library/ 301
+
+# Held back while WordPress still serves the store, donation form, newsletter signup and file uploads. Enable only after those move:
+# /national-newsletter/ /events/#newsletters 301
+# /espanol/boletin-nacional/ /espanol/events/#newsletters 301
+# /donate-to-cursillo/ /give/ 301
+# /espanol/donar-a-cursillos/ /espanol/give/ 301
+# /tieng-viet/ung-ho-pt-cursillo/ /tieng-viet/give/ 301
+# /cart/ /bookstore/ 301
+# /my-account/ /bookstore/ 301
+# /product/247-v-conversaciones-de-cala-figuera/ /espanol/bookstore/#p-247-v-conversaciones-de-cala-figuera 301
+# /product/5th-conversations-of-cala-figuera/ /bookstore/#p-5th-conversations-of-cala-figuera 301
+# /product/7615/ /bookstore/#p-7615 301
+# /product/a-quien-enviare-por-rev-frank-salmani/ /espanol/bookstore/#p-a-quien-enviare-por-rev-frank-salmani 301
+# /product/bookmark-with-magnifier-and-ruler/ /bookstore/#p-bookmark-with-magnifier-and-ruler 301
+# /product/bumper-sticker-de-colores/ /bookstore/#p-bumper-sticker-de-colores 301
+# /product/bumper-sticker-to-make-a-friend-be-a-friend-bring-your-friend-to-christ/ /bookstore/#p-bumper-sticker-to-make-a-friend-be-a-friend-bring-your-friend-to-christ 301
+# /product/cam-nang-linh-huong/ /tieng-viet/bookstore/#p-cam-nang-linh-huong 301
+# /product/cap-cursillos-in-christianity-cursillos-de-cristiandad/ /bookstore/#p-cap-cursillos-in-christianity-cursillos-de-cristiandad 301
+# /product/cap-de-colores/ /bookstore/#p-cap-de-colores 301
+# /product/carnet-50/ /espanol/bookstore/#p-carnet-50 301
+# /product/carnets-package-of-50/ /bookstore/#p-carnets-package-of-50 301
+# /product/chi-nam-2016-dung-trong-khoa-hoc/ /tieng-viet/bookstore/#p-chi-nam-2016-dung-trong-khoa-hoc 301
+# /product/cm-nang-khoa-cursillo/ /tieng-viet/bookstore/#p-cm-nang-khoa-cursillo 301
+# /product/cm-nang-lanh-o/ /tieng-viet/bookstore/#p-cm-nang-lanh-o 301
+# /product/cm-nang-ngi-bo-tr/ /tieng-viet/bookstore/#p-cm-nang-ngi-bo-tr 301
+# /product/como-programar-una-escuela-de-dirigentes/ /espanol/bookstore/#p-como-programar-una-escuela-de-dirigentes 301
+# /product/cristianos-en-rodaje-por-valentin-galindo/ /espanol/bookstore/#p-cristianos-en-rodaje-por-valentin-galindo 301
+# /product/crucifijo-moderno-color-plateado-2-christ-iscounting-on-you/ /espanol/bookstore/#p-crucifijo-moderno-color-plateado-2-christ-iscounting-on-you 301
+# /product/crucifijo-tradicional-3-cursillo-de-cristiandad/ /espanol/bookstore/#p-crucifijo-tradicional-3-cursillo-de-cristiandad 301
+# /product/crucifix-nickel-plated-2/ /bookstore/#p-crucifix-nickel-plated-2 301
+# /product/crucifix-traditional-3/ /bookstore/#p-crucifix-traditional-3 301
+# /product/cursillo-brochure-package-of-50/ /bookstore/#p-cursillo-brochure-package-of-50 301
+# /product/cursillo-history-memory/ /bookstore/#p-cursillo-history-memory 301
+# /product/cursillo-lapel-pin-silver/ /bookstore/#p-cursillo-lapel-pin-silver 301
+# /product/cursillo-pendant/ /bookstore/#p-cursillo-pendant 301
+# /product/cursillo-que-es/ /espanol/bookstore/#p-cursillo-que-es 301
+# /product/cursillo-what-is-it-for-candidates-before-weekend/ /bookstore/#p-cursillo-what-is-it-for-candidates-before-weekend 301
+# /product/desarrollo/ /bookstore/#p-desarrollo 301
+# /product/echad-vuestras-redes-por-rev-juan-capo/ /espanol/bookstore/#p-echad-vuestras-redes-por-rev-juan-capo 301
+# /product/eduardo-bonnin-%C2%96-un-aprendiz-de-cristiano/ /espanol/bookstore/#p-eduardo-bonnin-%c2%96-un-aprendiz-de-cristiano 301
+# /product/eduardo-bonnin-aguilo-100-anos-biografia-pensamiento/ /espanol/bookstore/#p-eduardo-bonnin-aguilo-100-anos-biografia-pensamiento 301
+# /product/eduardo-bonnin-aguilo-100-years-biography-mentality/ /bookstore/#p-eduardo-bonnin-aguilo-100-years-biography-mentality 301
+# /product/eduardo-bonnin-an-apprentice-christian/ /bookstore/#p-eduardo-bonnin-an-apprentice-christian 301
+# /product/eduardo-bonnin-prayer-card-package-50/ /bookstore/#p-eduardo-bonnin-prayer-card-package-50 301
+# /product/el-como-y-el-porque/ /espanol/bookstore/#p-el-como-y-el-porque 301
+# /product/el-libro-del-padrino/ /espanol/bookstore/#p-el-libro-del-padrino 301
+# /product/empezando-el-4-dia/ /espanol/bookstore/#p-empezando-el-4-dia 301
+# /product/estudio-del-carisma-por-omcc/ /espanol/bookstore/#p-estudio-del-carisma-por-omcc 301
+# /product/evidencias-olvidadas-por-eduardo-bonnin/ /espanol/bookstore/#p-evidencias-olvidadas-por-eduardo-bonnin 301
+# /product/first-conversations-of-cala-figuera/ /bookstore/#p-first-conversations-of-cala-figuera 301
+# /product/folletos-del-cursillo-50/ /espanol/bookstore/#p-folletos-del-cursillo-50 301
+# /product/fundamental-ideas-3rd-edition/ /bookstore/#p-fundamental-ideas-3rd-edition 301
+# /product/fundamentals-of-christianity-by-fr-frank-salmani/ /bookstore/#p-fundamentals-of-christianity-by-fr-frank-salmani 301
+# /product/gods-plan-salvation-fr-frank-salmani/ /bookstore/#p-gods-plan-salvation-fr-frank-salmani 301
+# /product/group-reunion-sheets-package-of-50/ /bookstore/#p-group-reunion-sheets-package-of-50 301
+# /product/guia-del-peregrino/ /espanol/bookstore/#p-guia-del-peregrino 301
+# /product/guia-del-rector/ /espanol/bookstore/#p-guia-del-rector 301
+# /product/historia-de-un-carisma/ /espanol/bookstore/#p-historia-de-un-carisma 301
+# /product/historica-y-memoria-de-cursillos/ /espanol/bookstore/#p-historica-y-memoria-de-cursillos 301
+# /product/history-of-a-charism-foundation-eduardo-bonnin-aguilo/ /bookstore/#p-history-of-a-charism-foundation-eduardo-bonnin-aguilo 301
+# /product/hoja-de-reunion-de-dirigentes-50/ /espanol/bookstore/#p-hoja-de-reunion-de-dirigentes-50 301
+# /product/hoja-de-reunion-de-grupo-50/ /espanol/bookstore/#p-hoja-de-reunion-de-grupo-50 301
+# /product/hoja-de-servicio-50/ /espanol/bookstore/#p-hoja-de-servicio-50 301
+# /product/ideas-fundamentales-2/ /espanol/bookstore/#p-ideas-fundamentales-2 301
+# /product/ii-conversaciones-de-cala-figuera/ /espanol/bookstore/#p-ii-conversaciones-de-cala-figuera 301
+# /product/iii-conversaciones-de-cala-figuera/ /espanol/bookstore/#p-iii-conversaciones-de-cala-figuera 301
+# /product/iv-conversaciones-de-cala-figuera/ /espanol/bookstore/#p-iv-conversaciones-de-cala-figuera 301
+# /product/joy-of-the-gospel-by-pope-francis/ /bookstore/#p-joy-of-the-gospel-by-pope-francis 301
+# /product/kahki-cotton-twill-visor/ /bookstore/#p-kahki-cotton-twill-visor 301
+# /product/lam-th-nao-hinh-thanh-mt-trng-lanh-o/ /tieng-viet/bookstore/#p-lam-th-nao-hinh-thanh-mt-trng-lanh-o 301
+# /product/leaders-manual/ /bookstore/#p-leaders-manual 301
+# /product/leaders-order-of-reunion-package-of-50/ /bookstore/#p-leaders-order-of-reunion-package-of-50 301
+# /product/leaders-prayer-card-package-of-50/ /bookstore/#p-leaders-prayer-card-package-of-50 301
+# /product/lets-keep-the-fourth-day-simple/ /bookstore/#p-lets-keep-the-fourth-day-simple 301
+# /product/los-origenes-mallorquines-de-los-cursillos-decristiandad-en-ee-uu-texas-1957-1959/ /espanol/bookstore/#p-los-origenes-mallorquines-de-los-cursillos-decristiandad-en-ee-uu-texas-1957-1959 301
+# /product/lower-your-nets/ /bookstore/#p-lower-your-nets 301
+# /product/manifesto/ /bookstore/#p-manifesto 301
+# /product/manifiesto/ /espanol/bookstore/#p-manifiesto 301
+# /product/mantengamos-el-plan-pastoral-sencillo/ /espanol/bookstore/#p-mantengamos-el-plan-pastoral-sencillo 301
+# /product/manual-de-dirigentes/ /espanol/bookstore/#p-manual-de-dirigentes 301
+# /product/manual-del-asesor-espiritual/ /espanol/bookstore/#p-manual-del-asesor-espiritual 301
+# /product/mens-polo-shirt/ /bookstore/#p-mens-polo-shirt 301
+# /product/mi-testamento-espiritual-por-eduardo-bonnin/ /espanol/bookstore/#p-mi-testamento-espiritual-por-eduardo-bonnin 301
+# /product/my-spiritual-testament-by-eduardo-bonnin/ /bookstore/#p-my-spiritual-testament-by-eduardo-bonnin 301
+# /product/nhng-ngi-mon-chua-sai-i/ /tieng-viet/bookstore/#p-nhng-ngi-mon-chua-sai-i 301
+# /product/nhng-t-tng-nn-tng-pt-cursillo/ /tieng-viet/bookstore/#p-nhng-t-tng-nn-tng-pt-cursillo 301
+# /product/nhung-tu-tuong-nen-tang-pt-cursillo/ /tieng-viet/bookstore/#p-nhung-tu-tuong-nen-tang-pt-cursillo 301
+# /product/nuestro-cuarto-dia/ /espanol/bookstore/#p-nuestro-cuarto-dia 301
+# /product/on-evangelization-in-the-modern-world/ /bookstore/#p-on-evangelization-in-the-modern-world 301
+# /product/oracion-del-dirigente-50/ /espanol/bookstore/#p-oracion-del-dirigente-50 301
+# /product/origins-and-development-of-cursillo/ /bookstore/#p-origins-and-development-of-cursillo 301
+# /product/picture-of-jesus-recreation-of-shroud/ /bookstore/#p-picture-of-jesus-recreation-of-shroud 301
+# /product/pilgrims-guide-6th-edition/ /bookstore/#p-pilgrims-guide-6th-edition 301
+# /product/polo-shirt-2/ /bookstore/#p-polo-shirt-2 301
+# /product/post-cursillo-group-reunion-and-ultreya/ /bookstore/#p-post-cursillo-group-reunion-and-ultreya 301
+# /product/primeras-conversaciones-de-cala-figuera/ /espanol/bookstore/#p-primeras-conversaciones-de-cala-figuera 301
+# /product/rectors-guide/ /bookstore/#p-rectors-guide 301
+# /product/reflections-ii-search-oneself/ /bookstore/#p-reflections-ii-search-oneself 301
+# /product/reflexiones-ii-por-eduardo-bonnin/ /espanol/bookstore/#p-reflexiones-ii-por-eduardo-bonnin 301
+# /product/reflexiones-por-eduardo-bonnin/ /espanol/bookstore/#p-reflexiones-por-eduardo-bonnin 301
+# /product/retrato-de-jesus-tomado-del-manto-de-turin/ /espanol/bookstore/#p-retrato-de-jesus-tomado-del-manto-de-turin 301
+# /product/reunion-de-grupo-teoria-de-su-practica/ /espanol/bookstore/#p-reunion-de-grupo-teoria-de-su-practica 301
+# /product/reunion-of-the-group-by-eduardo-bonnin/ /bookstore/#p-reunion-of-the-group-by-eduardo-bonnin 301
+# /product/service-sheets-package-of-50/ /bookstore/#p-service-sheets-package-of-50 301
+# /product/spiritual-advisor%C2%92s-manual/ /bookstore/#p-spiritual-advisor%c2%92s-manual 301
+# /product/sponsors-booklet/ /bookstore/#p-sponsors-booklet 301
+# /product/starting-the-4th-day-give-to-new-cursillistas/ /bookstore/#p-starting-the-4th-day-give-to-new-cursillistas 301
+# /product/structure-of-ideas-by-eduardo-bonnin/ /bookstore/#p-structure-of-ideas-by-eduardo-bonnin 301
+# /product/study-of-the-charism-by-omcc/ /bookstore/#p-study-of-the-charism-by-omcc 301
+# /product/stylus-paragon-pen/ /bookstore/#p-stylus-paragon-pen 301
+# /product/the-group-reunion-by-fr-juan-capo/ /bookstore/#p-the-group-reunion-by-fr-juan-capo 301
+# /product/the-thinking-of-eduardo-bonnin-i/ /bookstore/#p-the-thinking-of-eduardo-bonnin-i 301
+# /product/tim-hiu-pt-cursilllo/ /tieng-viet/bookstore/#p-tim-hiu-pt-cursilllo 301
+# /product/tote-bag/ /bookstore/#p-tote-bag 301
+# /product/unity-prayer-card-3/ /bookstore/#p-unity-prayer-card-3 301
+# /product/vamos-a-mantener-el-cuarto-dia-sencillo/ /espanol/bookstore/#p-vamos-a-mantener-el-cuarto-dia-sencillo 301
+# /product/vertebracion-de-ideas/ /espanol/bookstore/#p-vertebracion-de-ideas 301
+# /product/whom-shall-i-send-by-fr-frank-salmani/ /bookstore/#p-whom-shall-i-send-by-fr-frank-salmani 301
+# /product/womens-polo-shirts/ /bookstore/#p-womens-polo-shirts 301

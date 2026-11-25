@@ -1,0 +1,50 @@
+{
+ "name": "National Cursillo® Movement",
+ "short_name": "Cursillo",
+ "description": "The Cursillo in Christianity Movement — Christ · Person · Friendship. De Colores!",
+ "id": "/cursillo-site-preview/",
+ "start_url": "/cursillo-site-preview/",
+ "scope": "/cursillo-site-preview/",
+ "display": "standalone",
+ "background_color": "#0b1b3a",
+ "theme_color": "#0b1b3a",
+ "lang": "en",
+ "dir": "ltr",
+ "categories": [
+  "lifestyle",
+  "social",
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/cursillo-site-preview/assets/brand/icons/favicon-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/cursillo-site-preview/assets/brand/icons/favicon-512x512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/cursillo-site-preview/assets/brand/icons/icon-maskable-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "/cursillo-site-preview/assets/brand/icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "/cursillo-site-preview/assets/brand/favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
